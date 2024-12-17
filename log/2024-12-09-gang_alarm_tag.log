@@ -1,0 +1,262 @@
+08:50:02.897: Function <module>, Line 316: Attempting PUT Light Green on channel MCT. Control Point: RDI
+08:50:02.960: Function put_tag_api, Line 165: PUT attempt success
+08:50:02.991: Function <module>, Line 316: Attempting PUT Light Green on channel RIM. Control Point: RDI
+08:50:03.038: Function put_tag_api, Line 165: PUT attempt success
+08:50:03.069: Function <module>, Line 316: Attempting PUT Light Green on channel SHE. Control Point: RDI
+08:50:03.132: Function put_tag_api, Line 165: PUT attempt success
+08:50:03.147: Function <module>, Line 316: Attempting PUT Light Green on channel QUE. Control Point: RDI
+08:50:03.210: Function put_tag_api, Line 165: PUT attempt success
+08:50:03.225: Function <module>, Line 316: Attempting PUT Light Green on channel MTL. Control Point: RDI
+08:50:03.289: Function put_tag_api, Line 165: PUT attempt success
+08:50:03.320: Function <module>, Line 316: Attempting PUT Light Green on channel MTL. Control Point: RDI
+08:50:03.383: Function put_tag_api, Line 165: PUT attempt success
+08:50:03.398: Function <module>, Line 316: Attempting PUT Light Green on channel OTT. Control Point: RDI
+08:50:03.461: Function put_tag_api, Line 165: PUT attempt success
+08:50:03.508: Function <module>, Line 316: Attempting PUT Light Green on channel TOR. Control Point: RDI
+08:50:03.586: Function put_tag_api, Line 165: PUT attempt success
+08:50:03.601: Function <module>, Line 316: Attempting PUT Light Green on channel TRV. Control Point: RDI
+08:50:03.664: Function put_tag_api, Line 165: PUT attempt success
+08:50:03.695: Function <module>, Line 316: Attempting PUT Light Green on channel SAG. Control Point: RDI
+08:50:03.742: Function put_tag_api, Line 165: PUT attempt success
+08:50:03.773: Function <module>, Line 316: Attempting PUT Light Green on channel AX2. Control Point: RDI
+08:50:03.836: Function put_tag_api, Line 165: PUT attempt success
+08:50:03.867: Function <module>, Line 316: Attempting PUT Light Green on channel RDI. Control Point: RDI
+08:50:03.929: Function put_tag_api, Line 165: PUT attempt success
+08:50:03.976: Function <module>, Line 316: Attempting PUT Light Green on channel RDI. Control Point: RDI
+08:50:04.039: Function put_tag_api, Line 165: PUT attempt success
+08:50:04.070: Function <module>, Line 316: Attempting PUT Light Green on channel RDI. Control Point: RDI
+08:50:04.133: Function put_tag_api, Line 165: PUT attempt success
+09:30:02.045: Function <module>, Line 343: Attempting PUT for Default. MCT Removed from Gang: RDI
+09:30:02.107: Function put_tag_api, Line 165: PUT attempt success
+09:30:02.123: Function <module>, Line 343: Attempting PUT for Default. RIM Removed from Gang: RDI
+09:30:02.186: Function put_tag_api, Line 165: PUT attempt success
+09:30:02.201: Function <module>, Line 343: Attempting PUT for Default. SHE Removed from Gang: RDI
+09:30:02.264: Function put_tag_api, Line 165: PUT attempt success
+09:30:02.295: Function <module>, Line 343: Attempting PUT for Default. QUE Removed from Gang: RDI
+09:30:02.358: Function put_tag_api, Line 165: PUT attempt success
+09:30:02.373: Function <module>, Line 343: Attempting PUT for Default. MTL Removed from Gang: RDI
+09:30:02.436: Function put_tag_api, Line 165: PUT attempt success
+09:30:02.483: Function <module>, Line 343: Attempting PUT for Default. MTL Removed from Gang: RDI
+09:30:02.545: Function put_tag_api, Line 165: PUT attempt success
+09:30:02.561: Function <module>, Line 343: Attempting PUT for Default. OTT Removed from Gang: RDI
+09:30:02.623: Function put_tag_api, Line 165: PUT attempt success
+09:30:02.639: Function <module>, Line 343: Attempting PUT for Default. TOR Removed from Gang: RDI
+09:30:02.701: Function put_tag_api, Line 165: PUT attempt success
+09:30:02.717: Function <module>, Line 343: Attempting PUT for Default. TRV Removed from Gang: RDI
+09:30:02.780: Function put_tag_api, Line 165: PUT attempt success
+09:30:02.811: Function <module>, Line 343: Attempting PUT for Default. SAG Removed from Gang: RDI
+09:30:02.858: Function put_tag_api, Line 165: PUT attempt success
+09:30:02.889: Function <module>, Line 343: Attempting PUT for Default. AX2 Removed from Gang: RDI
+09:30:02.936: Function put_tag_api, Line 165: PUT attempt success
+09:30:02.967: Function <module>, Line 343: Attempting PUT for Default. RDI Removed from Gang: RDI
+09:30:03.030: Function put_tag_api, Line 165: PUT attempt success
+09:30:03.045: Function <module>, Line 343: Attempting PUT for Default. RDI Removed from Gang: RDI
+09:30:03.108: Function put_tag_api, Line 165: PUT attempt success
+09:30:03.123: Function <module>, Line 343: Attempting PUT for Default. RDI Removed from Gang: RDI
+09:30:03.170: Function put_tag_api, Line 165: PUT attempt success
+11:50:59.820: Function <module>, Line 316: Attempting PUT Pink on channel MCT. Control Point: MTL
+11:50:59.883: Function put_tag_api, Line 165: PUT attempt success
+11:50:59.898: Function <module>, Line 316: Attempting PUT Pink on channel RIM. Control Point: MTL
+11:50:59.961: Function put_tag_api, Line 165: PUT attempt success
+11:50:59.992: Function <module>, Line 316: Attempting PUT Pink on channel SHE. Control Point: MTL
+11:51:00.055: Function put_tag_api, Line 165: PUT attempt success
+11:51:00.070: Function <module>, Line 316: Attempting PUT Pink on channel QUE. Control Point: MTL
+11:51:00.133: Function put_tag_api, Line 165: PUT attempt success
+11:51:00.148: Function <module>, Line 316: Attempting PUT Pink on channel MTL. Control Point: MTL
+11:51:00.211: Function put_tag_api, Line 165: PUT attempt success
+11:51:00.258: Function <module>, Line 316: Attempting PUT Pink on channel MTL. Control Point: MTL
+11:51:00.305: Function put_tag_api, Line 165: PUT attempt success
+11:51:00.336: Function <module>, Line 316: Attempting PUT Pink on channel OTT. Control Point: MTL
+11:51:00.383: Function put_tag_api, Line 165: PUT attempt success
+11:51:00.430: Function <module>, Line 316: Attempting PUT Pink on channel TOR. Control Point: MTL
+11:51:00.492: Function put_tag_api, Line 165: PUT attempt success
+11:51:00.523: Function <module>, Line 316: Attempting PUT Pink on channel TRV. Control Point: MTL
+11:51:00.570: Function put_tag_api, Line 165: PUT attempt success
+11:51:00.586: Function <module>, Line 316: Attempting PUT Pink on channel SAG. Control Point: MTL
+11:51:00.648: Function put_tag_api, Line 165: PUT attempt success
+11:51:00.695: Function <module>, Line 316: Attempting PUT Pink on channel AX1. Control Point: MTL
+11:51:00.758: Function put_tag_api, Line 165: PUT attempt success
+11:51:00.789: Function <module>, Line 316: Attempting PUT Pink on channel RDI. Control Point: MTL
+11:51:00.851: Function put_tag_api, Line 165: PUT attempt success
+11:51:00.867: Function <module>, Line 316: Attempting PUT Pink on channel RDI. Control Point: MTL
+11:51:00.930: Function put_tag_api, Line 165: PUT attempt success
+11:51:00.945: Function <module>, Line 316: Attempting PUT Pink on channel RDI. Control Point: MTL
+11:51:01.008: Function put_tag_api, Line 165: PUT attempt success
+12:30:59.762: Function <module>, Line 343: Attempting PUT for Default. MCT Removed from Gang: MTL
+12:30:59.805: Function put_tag_api, Line 165: PUT attempt success
+12:30:59.836: Function <module>, Line 343: Attempting PUT for Default. RIM Removed from Gang: MTL
+12:30:59.883: Function put_tag_api, Line 165: PUT attempt success
+12:30:59.915: Function <module>, Line 343: Attempting PUT for Default. SHE Removed from Gang: MTL
+12:30:59.961: Function put_tag_api, Line 165: PUT attempt success
+12:30:59.993: Function <module>, Line 343: Attempting PUT for Default. QUE Removed from Gang: MTL
+12:31:00.040: Function put_tag_api, Line 165: PUT attempt success
+12:31:00.071: Function <module>, Line 343: Attempting PUT for Default. MTL Removed from Gang: MTL
+12:31:00.118: Function put_tag_api, Line 165: PUT attempt success
+12:31:00.149: Function <module>, Line 343: Attempting PUT for Default. MTL Removed from Gang: MTL
+12:31:00.211: Function put_tag_api, Line 165: PUT attempt success
+12:31:00.227: Function <module>, Line 343: Attempting PUT for Default. OTT Removed from Gang: MTL
+12:31:00.290: Function put_tag_api, Line 165: PUT attempt success
+12:31:00.321: Function <module>, Line 343: Attempting PUT for Default. TOR Removed from Gang: MTL
+12:31:00.383: Function put_tag_api, Line 165: PUT attempt success
+12:31:00.399: Function <module>, Line 343: Attempting PUT for Default. TRV Removed from Gang: MTL
+12:31:00.461: Function put_tag_api, Line 165: PUT attempt success
+12:31:00.493: Function <module>, Line 343: Attempting PUT for Default. SAG Removed from Gang: MTL
+12:31:00.540: Function put_tag_api, Line 165: PUT attempt success
+12:31:00.586: Function <module>, Line 343: Attempting PUT for Default. AX1 Removed from Gang: MTL
+12:31:00.649: Function put_tag_api, Line 165: PUT attempt success
+12:31:00.680: Function <module>, Line 343: Attempting PUT for Default. RDI Removed from Gang: MTL
+12:31:00.743: Function put_tag_api, Line 165: PUT attempt success
+12:31:00.774: Function <module>, Line 343: Attempting PUT for Default. RDI Removed from Gang: MTL
+12:31:00.821: Function put_tag_api, Line 165: PUT attempt success
+12:31:00.837: Function <module>, Line 343: Attempting PUT for Default. RDI Removed from Gang: MTL
+12:31:00.899: Function put_tag_api, Line 165: PUT attempt success
+17:50:01.431: Function <module>, Line 316: Attempting PUT Pink on channel MTL. Control Point: MTL
+17:50:01.494: Function put_tag_api, Line 165: PUT attempt success
+17:50:01.541: Function <module>, Line 316: Attempting PUT Pink on channel MTL. Control Point: MTL
+17:50:01.603: Function put_tag_api, Line 165: PUT attempt success
+17:50:01.635: Function <module>, Line 316: Attempting PUT Pink on channel AX1. Control Point: MTL
+17:50:01.713: Function put_tag_api, Line 165: PUT attempt success
+17:51:01.830: Function <module>, Line 316: Attempting PUT Light Blue on channel OTT. Control Point: OTT
+17:51:01.893: Function put_tag_api, Line 165: PUT attempt success
+18:31:01.726: Function <module>, Line 316: Attempting PUT Light Blue on channel RIM. Control Point: OTT
+18:31:01.788: Function put_tag_api, Line 165: PUT attempt success
+18:31:01.819: Function <module>, Line 316: Attempting PUT Light Blue on channel SHE. Control Point: OTT
+18:31:01.866: Function put_tag_api, Line 165: PUT attempt success
+18:31:01.913: Function <module>, Line 316: Attempting PUT Light Blue on channel TOR. Control Point: OTT
+18:31:01.976: Function put_tag_api, Line 165: PUT attempt success
+18:31:01.991: Function <module>, Line 316: Attempting PUT Light Blue on channel TRV. Control Point: OTT
+18:31:02.054: Function put_tag_api, Line 165: PUT attempt success
+18:31:02.085: Function <module>, Line 316: Attempting PUT Light Blue on channel SAG. Control Point: OTT
+18:31:02.132: Function put_tag_api, Line 165: PUT attempt success
+19:00:31.195: Function <module>, Line 343: Attempting PUT for Default. MTL Removed from Gang: MTL
+19:00:31.273: Function put_tag_api, Line 165: PUT attempt success
+19:00:31.304: Function <module>, Line 343: Attempting PUT for Default. MTL Removed from Gang: MTL
+19:00:31.351: Function put_tag_api, Line 165: PUT attempt success
+19:00:31.383: Function <module>, Line 343: Attempting PUT for Default. AX1 Removed from Gang: MTL
+19:00:31.445: Function put_tag_api, Line 165: PUT attempt success
+19:01:01.737: Function get_channel_list, Line 233: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=128.0.6613.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6856188B2+31186]
+	(No symbol) [0x00007FF68558FCA9]
+	(No symbol) [0x00007FF68544D13A]
+	(No symbol) [0x00007FF685453D36]
+	(No symbol) [0x00007FF685455FC1]
+	(No symbol) [0x00007FF685456060]
+	(No symbol) [0x00007FF68549A7DB]
+	(No symbol) [0x00007FF6854C5E7A]
+	(No symbol) [0x00007FF685494226]
+	(No symbol) [0x00007FF6854C6090]
+	(No symbol) [0x00007FF6854E5C59]
+	(No symbol) [0x00007FF6854C5C23]
+	(No symbol) [0x00007FF685492521]
+	(No symbol) [0x00007FF685493691]
+	GetHandleVerifier [0x00007FF68592F57D+3270301]
+	GetHandleVerifier [0x00007FF68597B223+3580739]
+	GetHandleVerifier [0x00007FF6859710B7+3539415]
+	GetHandleVerifier [0x00007FF6856D2C76+794006]
+	(No symbol) [0x00007FF68559AFCF]
+	(No symbol) [0x00007FF685596704]
+	(No symbol) [0x00007FF685596892]
+	(No symbol) [0x00007FF68558606F]
+	BaseThreadInitThunk [0x00007FFE9F3A4CB0+16]
+	RtlUserThreadStart [0x00007FFEA0B7ECEB+43]
+
+19:01:01.737: Function get_channel_list, Line 234: Failed to retrieve shcedule on <selenium.webdriver.chrome.webdriver.WebDriver (session="03225ae1519dfb11e763d73c2f4dcf77")>. Refreshing Driver
+19:01:03.112: Function <module>, Line 343: Attempting PUT for Default. RIM Removed from Gang: OTT
+19:01:03.174: Function put_tag_api, Line 165: PUT attempt success
+19:01:03.221: Function <module>, Line 343: Attempting PUT for Default. SHE Removed from Gang: OTT
+19:01:03.299: Function put_tag_api, Line 165: PUT attempt success
+19:01:03.315: Function <module>, Line 343: Attempting PUT for Default. OTT Removed from Gang: OTT
+19:01:03.377: Function put_tag_api, Line 165: PUT attempt success
+19:01:03.393: Function <module>, Line 343: Attempting PUT for Default. TOR Removed from Gang: OTT
+19:01:03.455: Function put_tag_api, Line 165: PUT attempt success
+19:01:03.471: Function <module>, Line 343: Attempting PUT for Default. TRV Removed from Gang: OTT
+19:01:03.533: Function put_tag_api, Line 165: PUT attempt success
+19:01:03.565: Function <module>, Line 343: Attempting PUT for Default. SAG Removed from Gang: OTT
+19:01:03.612: Function put_tag_api, Line 165: PUT attempt success
+21:51:03.404: Function <module>, Line 316: Attempting PUT Pink on channel MCT. Control Point: MTL
+21:51:03.482: Function put_tag_api, Line 165: PUT attempt success
+21:51:03.513: Function <module>, Line 316: Attempting PUT Pink on channel RIM. Control Point: MTL
+21:51:03.576: Function put_tag_api, Line 165: PUT attempt success
+21:51:03.623: Function <module>, Line 316: Attempting PUT Pink on channel SHE. Control Point: MTL
+21:51:03.686: Function put_tag_api, Line 165: PUT attempt success
+21:51:03.717: Function <module>, Line 316: Attempting PUT Pink on channel QUE. Control Point: MTL
+21:51:03.764: Function put_tag_api, Line 165: PUT attempt success
+21:51:03.795: Function <module>, Line 316: Attempting PUT Pink on channel MTL. Control Point: MTL
+21:51:03.842: Function put_tag_api, Line 165: PUT attempt success
+21:51:03.873: Function <module>, Line 316: Attempting PUT Pink on channel MTL. Control Point: MTL
+21:51:03.920: Function put_tag_api, Line 165: PUT attempt success
+21:51:03.951: Function <module>, Line 316: Attempting PUT Pink on channel OTT. Control Point: MTL
+21:51:04.014: Function put_tag_api, Line 165: PUT attempt success
+21:51:04.045: Function <module>, Line 316: Attempting PUT Pink on channel TOR. Control Point: MTL
+21:51:04.107: Function put_tag_api, Line 165: PUT attempt success
+21:51:04.139: Function <module>, Line 316: Attempting PUT Pink on channel TRV. Control Point: MTL
+21:51:04.186: Function put_tag_api, Line 165: PUT attempt success
+21:51:04.201: Function <module>, Line 316: Attempting PUT Pink on channel SAG. Control Point: MTL
+21:51:04.264: Function put_tag_api, Line 165: PUT attempt success
+21:51:04.295: Function <module>, Line 316: Attempting PUT Pink on channel AX1. Control Point: MTL
+21:51:04.373: Function put_tag_api, Line 165: PUT attempt success
+21:51:04.389: Function <module>, Line 316: Attempting PUT Pink on channel RDI. Control Point: MTL
+21:51:04.467: Function put_tag_api, Line 165: PUT attempt success
+21:51:04.482: Function <module>, Line 316: Attempting PUT Pink on channel RDI. Control Point: MTL
+21:51:04.529: Function put_tag_api, Line 165: PUT attempt success
+21:51:04.561: Function <module>, Line 316: Attempting PUT Pink on channel RDI. Control Point: MTL
+21:51:04.623: Function put_tag_api, Line 165: PUT attempt success
+23:01:03.368: Function <module>, Line 343: Attempting PUT for Default. RDI Removed from Gang: MTL
+23:01:03.446: Function put_tag_api, Line 165: PUT attempt success
+23:01:03.493: Function <module>, Line 343: Attempting PUT for Default. RDI Removed from Gang: MTL
+23:01:03.555: Function put_tag_api, Line 165: PUT attempt success
+23:01:03.602: Function <module>, Line 343: Attempting PUT for Default. RDI Removed from Gang: MTL
+23:01:03.649: Function put_tag_api, Line 165: PUT attempt success
+23:05:02.986: Function get_channel_list, Line 233: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=128.0.6613.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6856188B2+31186]
+	(No symbol) [0x00007FF68558FCA9]
+	(No symbol) [0x00007FF68544D13A]
+	(No symbol) [0x00007FF685453D36]
+	(No symbol) [0x00007FF685455FC1]
+	(No symbol) [0x00007FF685456060]
+	(No symbol) [0x00007FF68549A7DB]
+	(No symbol) [0x00007FF6854C5E7A]
+	(No symbol) [0x00007FF685494226]
+	(No symbol) [0x00007FF6854C6090]
+	(No symbol) [0x00007FF6854E5C59]
+	(No symbol) [0x00007FF6854C5C23]
+	(No symbol) [0x00007FF685492521]
+	(No symbol) [0x00007FF685493691]
+	GetHandleVerifier [0x00007FF68592F57D+3270301]
+	GetHandleVerifier [0x00007FF68597B223+3580739]
+	GetHandleVerifier [0x00007FF6859710B7+3539415]
+	GetHandleVerifier [0x00007FF6856D2C76+794006]
+	(No symbol) [0x00007FF68559AFCF]
+	(No symbol) [0x00007FF685596704]
+	(No symbol) [0x00007FF685596892]
+	(No symbol) [0x00007FF68558606F]
+	BaseThreadInitThunk [0x00007FFE9F3A4CB0+16]
+	RtlUserThreadStart [0x00007FFEA0B7ECEB+43]
+
+23:05:02.986: Function get_channel_list, Line 234: Failed to retrieve shcedule on <selenium.webdriver.chrome.webdriver.WebDriver (session="53db39a6f1b76e40ff27e45e0cb9b6e0")>. Refreshing Driver
+23:05:03.554: Function <module>, Line 343: Attempting PUT for Default. MCT Removed from Gang: MTL
+23:05:03.610: Function put_tag_api, Line 165: PUT attempt success
+23:05:03.645: Function <module>, Line 343: Attempting PUT for Default. OTT Removed from Gang: MTL
+23:05:03.706: Function put_tag_api, Line 165: PUT attempt success
+23:05:03.731: Function <module>, Line 343: Attempting PUT for Default. TRV Removed from Gang: MTL
+23:05:03.782: Function put_tag_api, Line 165: PUT attempt success
+23:05:03.812: Function <module>, Line 343: Attempting PUT for Default. AX1 Removed from Gang: MTL
+23:05:03.871: Function put_tag_api, Line 165: PUT attempt success
+23:05:04.419: Function <module>, Line 343: Attempting PUT for Default. RIM Removed from Gang: MTL
+23:05:04.466: Function put_tag_api, Line 165: PUT attempt success
+23:05:04.481: Function <module>, Line 343: Attempting PUT for Default. SHE Removed from Gang: MTL
+23:05:04.544: Function put_tag_api, Line 165: PUT attempt success
+23:05:04.575: Function <module>, Line 343: Attempting PUT for Default. QUE Removed from Gang: MTL
+23:05:04.638: Function put_tag_api, Line 165: PUT attempt success
+23:05:04.653: Function <module>, Line 343: Attempting PUT for Default. MTL Removed from Gang: MTL
+23:05:04.700: Function put_tag_api, Line 165: PUT attempt success
+23:05:04.731: Function <module>, Line 343: Attempting PUT for Default. MTL Removed from Gang: MTL
+23:05:04.778: Function put_tag_api, Line 165: PUT attempt success
+23:05:04.810: Function <module>, Line 343: Attempting PUT for Default. TOR Removed from Gang: MTL
+23:05:04.872: Function put_tag_api, Line 165: PUT attempt success
+23:05:04.888: Function <module>, Line 343: Attempting PUT for Default. SAG Removed from Gang: MTL
+23:05:04.935: Function put_tag_api, Line 165: PUT attempt success
